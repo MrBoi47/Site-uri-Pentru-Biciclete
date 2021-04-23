@@ -22,6 +22,9 @@ a.seclinks{
 	text-decoration:none;
 	color:#004E6F;
 }
+.image{
+		width:0%;
+	}
 
 
 @media only screen and (min-width: 1000px)
@@ -49,5 +52,11 @@ a.seclinks{
 		text-decoration:none;
 		color:#004E6F;
 	}
+	.image{
+		width:67.5%;
+		float:right;
+		margin-right:50px;
+	}
 
 }
+
