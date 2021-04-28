@@ -25,7 +25,14 @@ a.seclinks{
 .image{
 		width:0%;
 	}
-
+.mainlinks:hover{
+	color:black;
+	font-weight:bolder;
+}
+.seclinks:hover{
+	color:black;
+	font-weight:bold;
+}
 
 @media only screen and (min-width: 1000px)
 {
